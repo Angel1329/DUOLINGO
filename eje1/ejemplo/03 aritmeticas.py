@@ -1,0 +1,6 @@
+print(5+15)
+print (5-15)
+print (5*15)
+print (float(5**2))
+print (int(10/2))
+print (10%3)
